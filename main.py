@@ -99,4 +99,4 @@ def choice_drink():
 
 
 choice_drink()
-# TODO: 1. Check your codes https://docs.walletconnect.com/web3modal/nextjs/about.
+
